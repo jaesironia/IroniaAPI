@@ -7,7 +7,7 @@ Url del servicio:
 
 Formato de las peticiones:
 Todas las peticiones deben incluir la cabecera de autenticación básica que se construye de la siguiente manera:
-* El identificador y la contraseña se combinan en una cadena "api_key:api_secret" usando el caracter dos puntos como "pegamento".
+* El identificador y la contraseña se combinan en una cadena "Id Afiliado:Contraseña Afiliado" usando el caracter dos puntos como "pegamento".
 * La cadena resultante se codifica utilizando la variante RFC2045-MIME de Base64 (sin la limitación de 76 caracteres por línea).
 * El método de autorización y un espacio, es decir, "Basic " se pone a continuación, antes de la cadena codificada.
 
