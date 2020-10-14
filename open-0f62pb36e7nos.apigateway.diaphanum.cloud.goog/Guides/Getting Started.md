@@ -1,5 +1,5 @@
 ### Requisitos previos
-El equipo de IronIA le habrá suministrado un **Id Afiliado** y una ***Contraseña Afiliado* para poder acceder al API.
+El equipo de IronIA le habrá suministrado un **Id Afiliado** y una **Contraseña Afiliado** para poder acceder al API.
 
 ### Usando el API
 Url del servicio:
